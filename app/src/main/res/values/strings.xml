@@ -18,4 +18,5 @@
     <string name="button_divide">/</string>
     <string name="button_sign">sign</string>
     <string name="button_result">=</string>
+    <string name="result" />
 </resources>
